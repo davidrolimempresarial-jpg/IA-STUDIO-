@@ -1,0 +1,5 @@
+{
+  "name": "Sabor & Reserva - Gestão de Restaurante",
+  "description": "Sistema minimalista para gestão de reservas de restaurante com perfis Admin e Staff, controle de pagamentos PIX e dashboard financeiro.",
+  "requestFramePermissions": []
+}
